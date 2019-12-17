@@ -39,7 +39,6 @@
 			isa = PBXGroup;
 			children = (
 				DA9F4C302397DAA8001EB90B /* skeletonLaunch */,
-				DA9F4C2F2397DAA8001EB90B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -49,6 +48,7 @@
 				DA9F4C2E2397DAA8001EB90B /* skeletonLaunch.app */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		DA9F4C302397DAA8001EB90B /* skeletonLaunch */ = {
@@ -60,6 +60,7 @@
 				DA9F4C382397DAC0001EB90B /* Assets.xcassets */,
 				DA9F4C3A2397DAC0001EB90B /* LaunchScreen.storyboard */,
 				DA9F4C3D2397DAC0001EB90B /* Info.plist */,
+				DA9F4C2F2397DAA8001EB90B /* Products */,
 			);
 			path = skeletonLaunch;
 			sourceTree = "<group>";

@@ -21,6 +21,14 @@ class ViewController: UIViewController {
         showSkeleton()
     }
     
+    
+    
+    
+    
+    
+    
+    
+    
     func showSkeleton() {
         
         let skeletonView = UIView()
