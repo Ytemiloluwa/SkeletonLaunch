@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         
         let skeletonView = UIView()
         
-        skeletonView.backgroundColor = UIColor.white
+        skeletonView.backgroundColor = UIColor.black
         view.addSubview(skeletonView)
         
         let viewHeight = view.frame.height
