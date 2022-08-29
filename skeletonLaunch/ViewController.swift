@@ -6,8 +6,6 @@
 //  Copyright © 2019 Tello. All rights reserved.
 //
 
-
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -28,7 +26,7 @@ class ViewController: UIViewController {
         
         let skeletonView = UIView()
         
-        skeletonView.backgroundColor = UIColor.black
+        skeletonView.backgroundColor = UIColor.white
         view.addSubview(skeletonView)
         
         let viewHeight = view.frame.height
